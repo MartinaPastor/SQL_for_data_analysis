@@ -7,4 +7,4 @@ It focuses on analysing two types of marketing funnels:
 2. Home Try-on Funnel (quiz, home_try_on, purchase)
     
 </br>
-**NOTE: The data is fictional. To be found in the Codecademy course.** 
+NOTE: The data is fictional. To be found in the Codecademy course.
