@@ -1,10 +1,16 @@
-# SQL_for_funnels_analysis
+# SQL for Data Analysis
 
-This repository contains part of the open-ended SQL analysis of funnels part of the [Codecademy](https://www.codecademy.com/) on Data Analysis.
+This repository contains part of the open-ended SQL analysis for funnels and churn rates of the [Codecademy](https://www.codecademy.com/) course on Data Analysis.
+
+## Funnel Analysis
 
 It focuses on analysing two types of marketing funnels:
-1. A quiz funnel (survey)
-2. A home try-on funnel (quiz, home_try_on, purchase)
+* A quiz funnel (survey)
+* A home try-on funnel (quiz, home_try_on, purchase)
+
+## Churn Rate Analysis
+
+It focuses on calculating the churn rate [TO BE COMPLETED]
     
 </br>
-NOTE: The data is fictional. To be found in the Codecademy course.
+NOTE: The data is in part fictional fictional. To be found in the Codecademy course.
