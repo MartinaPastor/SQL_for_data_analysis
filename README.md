@@ -10,7 +10,7 @@ It focuses on analysing two types of marketing funnels:
 
 ## Churn Rate Analysis
 
-It focuses on calculating the churn rate [TO BE COMPLETED]
+It focuses on calculating the churn rate over the span of three months across two segments.
     
 </br>
 NOTE: The data is in part fictional fictional. To be found in the Codecademy course.
